@@ -1,0 +1,39 @@
+# Arquivos de usuário e de solução do Visual Studio
+*.sln.docstates
+*.suo
+*.user
+*.config
+*.vssscc
+*.vspscc
+
+# Pasta de configurações do Visual Studio 2017+
+.vs/
+
+# Arquivos de build
+*.exe
+*.dll
+*.obj
+*.o
+*.lib
+*.pdb
+*.ilk
+*.idb
+*.tlog
+*.pch
+
+# Pastas de build
+[Bb]in/
+[Bb]uild/
+[Dd]ebug/
+[Rr]elease/
+x64/
+ARM64/
+Win32/
+
+# Pacotes (NuGet)
+packages/
+*.nupkg
+
+# Testes
+*.cache
+TestResults/
